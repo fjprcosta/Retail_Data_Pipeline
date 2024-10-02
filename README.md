@@ -38,11 +38,11 @@ In your terminal:
 
 Clone the repo using Github CLI or Git CLI
 ```bash
-gh repo clone alanceloth/Retail_Data_Pipeline
+gh repo clone fjprcosta/Retail_Data_Pipeline
 ```
 or
 ```bash
-git clone https://github.com/alanceloth/Retail_Data_Pipeline.git
+git clone https://github.com/fjprcosta/Retail_Data_Pipeline.git
 ```
 
 Open the folder with your code editor.
@@ -135,9 +135,9 @@ Connect the database, and it's all set.
 
 ### Contact
 If you have questions feel free to ask me.
-- [LinkedIn](https://www.linkedin.com/in/alanlanceloth/)
-- [GitHub](https://github.com/alanceloth/)
-- [alan.lanceloth@gmail.com](mailto:alan.lanceloth@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-dataengineer/)
+- [GitHub](https://github.com/fjprcosta/)
+- [felipe.jprodriguesc@gmail.com](mailto:felipe.jprodriguesc@gmail.com)
 
 ### References
 Project based on [Marc Lamberti](https://www.youtube.com/@MarcLamberti) videos.
