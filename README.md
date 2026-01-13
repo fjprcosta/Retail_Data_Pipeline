@@ -17,8 +17,6 @@ The goal of this project is to create an end-to-end data pipeline from a Kaggle 
 - dbt
 - GitHub (Repo HERE)
 
-[Here is all the details about the project objective and results](https://www.linkedin.com/pulse/data-engineer-project-retail-pipeline-rodrigues-silva--yfpbf/)
-
 In the folder ```dags/include/datasets/``` you will find 3 files, the ```online_retail.csv``` is the original one downloaded from Kaggle and the ```country.csv``` was generated using a BigQuery table. It's all the data that is needed for this project.
 
 ---------
