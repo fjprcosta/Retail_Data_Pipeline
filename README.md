@@ -134,6 +134,3 @@ If you have questions feel free to ask me.
 - [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-dataengineer/)
 - [GitHub](https://github.com/fjprcosta/)
 - [felipe.jprodriguesc@gmail.com](mailto:felipe.jprodriguesc@gmail.com)
-
-### References
-Project based on [Marc Lamberti](https://www.youtube.com/@MarcLamberti) videos.
